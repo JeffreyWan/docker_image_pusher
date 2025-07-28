@@ -4,5 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 n8nio/n8n:latest
 postgres:14-alpine
 unclecode/crawl4ai:latest
+enwaiax/x-ui:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
