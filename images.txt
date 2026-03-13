@@ -8,3 +8,6 @@ enwaiax/x-ui:latest
 python:3.11-slim-bookworm
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+openclaw/openclaw:latest
+mongo:6.0
+redis:7.0
